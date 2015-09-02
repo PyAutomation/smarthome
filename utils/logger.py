@@ -23,7 +23,7 @@ class EnvironmentHandler(object):
         if EnvironmentHandler.__defined_logpath:
             return EnvironmentHandler.__defined_logpath
 
-        from gt_utils import GenericUtils
+        from smarthome.utils.generic import GenericUtils
 
         __cur_date = GenericUtils.get_current_date()
         __cur_time = GenericUtils.get_current_time()

@@ -17,7 +17,8 @@ KNOWN_LOGINS = ['ddn', 'user']
 import sys
 import os
 
-from sh_logger import LogLocal as Logger
+from smarthome.utils.logger import LogLocal as Logger
+
 
 
 
