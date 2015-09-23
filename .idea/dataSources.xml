@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2878983015">
+    <data-source source="LOCAL" name="SHSQL" uuid="8a9276df-7032-4ac2-ac30-ebf959fe6d59">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/smarthome/db_worker/sqlite/shdb.sql</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
