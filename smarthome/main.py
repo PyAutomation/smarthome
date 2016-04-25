@@ -1,6 +1,5 @@
 __author__ = 'Artem_Krutalevich'
 
-
 import os
 import sys
 import ipdb
@@ -17,6 +16,3 @@ if __name__ == "__main__":
     # scan_perepherials()
     # wait_perepherials()
     # apply_config()
-    # apply_config()
-
-    sys.exit(0)
