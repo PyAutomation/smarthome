@@ -9,6 +9,7 @@ if __name__ == "__main__":
     a = sys.version_info
     print(a)
     # quick_test()
+    # full_test()
     # test_environment()
     # read_config()
     # check_config()
