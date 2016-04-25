@@ -18,3 +18,5 @@ if __name__ == "__main__":
     # wait_perepherials()
     # apply_config()
     # apply_config()
+
+    sys.exit(0)
