@@ -1,12 +1,11 @@
 __author__ = 'Artem_Krutalevich'
 
-
 import os
 import sys
 import ipdb
 
 if __name__ == "__main__":
-    a = sys.getwindowsversion()
+    a = sys.version_info
     print(a)
     # quick_test()
     # test_environment()
