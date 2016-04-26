@@ -2,6 +2,7 @@ __author__ = 'Artem_Krutalevich'
 
 import os
 import sys
+import time
 #import ipdb
 
 
@@ -18,4 +19,5 @@ if __name__ == "__main__":
     # wait_perepherials()
     # apply_config()
     print('Main called')
+    time.sleep(60)
     sys.exit(0)
