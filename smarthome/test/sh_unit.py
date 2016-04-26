@@ -1,3 +1,5 @@
+import sys
+
 __author__ = 'scanters'
 
 
@@ -6,4 +8,4 @@ class Test:
     pass
 
 if __name__ == '__main__':
-    print 'Unit'
+    sys.exit(1)
