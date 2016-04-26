@@ -18,3 +18,4 @@ if __name__ == "__main__":
     # wait_perepherials()
     # apply_config()
     print('Main called')
+    sys.exit(0)
