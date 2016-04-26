@@ -17,3 +17,4 @@ if __name__ == "__main__":
     # scan_perepherials()
     # wait_perepherials()
     # apply_config()
+    print('Main called')
